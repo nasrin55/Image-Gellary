@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Image-Gellary/static/css/main.010df770.css",
+    "main.js": "/Image-Gellary/static/js/main.cd09d9dc.js",
+    "index.html": "/Image-Gellary/index.html",
+    "main.010df770.css.map": "/Image-Gellary/static/css/main.010df770.css.map",
+    "main.cd09d9dc.js.map": "/Image-Gellary/static/js/main.cd09d9dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010df770.css",
+    "static/js/main.cd09d9dc.js"
+  ]
+}
